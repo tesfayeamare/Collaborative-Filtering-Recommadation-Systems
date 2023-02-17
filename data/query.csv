@@ -1,0 +1,454 @@
+,query_id,cond_01,cond_02,cond_03
+1,Q0002,age=35,,
+3,Q0004,country=Heard Island and McDonald Islands,genre=tropical house,
+4,Q0005,age=35,genre=hip hop,
+5,Q0006,country=Heard Island and McDonald Islands,age=35,
+6,Q0007,country=Heard Island and McDonald Islands,age=35,genre=modern rock
+7,Q0008,country=Palau,,
+10,Q0011,country=Palau,genre=pop,
+11,Q0012,age=40,genre=pop dance,
+12,Q0013,country=Palau,age=40,
+13,Q0014,country=Palau,age=40,genre=r&b
+17,Q0018,country=Barbados,genre=modern rock,
+18,Q0019,age=24,genre=uk dance,
+19,Q0020,country=Barbados,age=24,
+20,Q0021,country=Barbados,age=24,genre=r&b
+24,Q0025,country=Nepal,genre=hip hop,
+25,Q0026,age=30,genre=edm,
+26,Q0027,country=Nepal,age=30,
+27,Q0028,country=Nepal,age=30,genre=pop
+28,Q0029,country=Sudan,,
+31,Q0032,country=Sudan,genre=uk dance,
+32,Q0033,age=38,genre=pop dance,
+33,Q0034,country=Sudan,age=38,
+34,Q0035,country=Sudan,age=38,genre=hip hop
+35,Q0036,country=Syrian Arab Republic,,
+38,Q0039,country=Syrian Arab Republic,genre=dance pop,
+40,Q0041,country=Syrian Arab Republic,age=47,
+41,Q0042,country=Syrian Arab Republic,age=47,genre=hip hop
+42,Q0043,country=Saint Helena,,
+45,Q0046,country=Saint Helena,genre=pop dance,
+46,Q0047,age=27,genre=pop,
+47,Q0048,country=Saint Helena,age=27,
+48,Q0049,country=Saint Helena,age=27,genre=pop dance
+49,Q0050,country=Dominican Republic,,
+52,Q0053,country=Dominican Republic,genre=pop dance,
+53,Q0054,age=50,genre=edm,
+54,Q0055,country=Dominican Republic,age=50,
+55,Q0056,country=Dominican Republic,age=50,genre=rock
+56,Q0057,country=Turkey,,
+59,Q0060,country=Turkey,genre=modern rock,
+60,Q0061,age=69,genre=pop dance,
+61,Q0062,country=Turkey,age=69,
+62,Q0063,country=Turkey,age=69,genre=rock
+63,Q0064,country=Belize,,
+66,Q0067,country=Belize,genre=pop,
+68,Q0069,country=Belize,age=51,
+69,Q0070,country=Belize,age=51,genre=tropical house
+70,Q0071,country=Eritrea,,
+73,Q0074,country=Eritrea,genre=rock,
+74,Q0075,age=61,genre=r&b,
+75,Q0076,country=Eritrea,age=61,
+76,Q0077,country=Eritrea,age=61,genre=tropical house
+77,Q0078,country=Haiti,,
+80,Q0081,country=Haiti,genre=tropical house,
+81,Q0082,age=21,genre=edm,
+82,Q0083,country=Haiti,age=21,
+83,Q0084,country=Haiti,age=21,genre=tropical house
+84,Q0085,country=Micronesia,,
+87,Q0088,country=Micronesia,genre=modern rock,
+88,Q0089,age=59,genre=dance pop,
+89,Q0090,country=Micronesia,age=59,
+90,Q0091,country=Micronesia,age=59,genre=r&b
+91,Q0092,country=Macedonia,,
+94,Q0095,country=Macedonia,genre=dance pop,
+95,Q0096,age=44,genre=r&b,
+96,Q0097,country=Macedonia,age=44,
+97,Q0098,country=Macedonia,age=44,genre=pop dance
+98,Q0099,country=Mali,,
+101,Q0102,country=Mali,genre=pop,
+102,Q0103,age=64,genre=r&b,
+103,Q0104,country=Mali,age=64,
+104,Q0105,country=Mali,age=64,genre=r&b
+105,Q0106,country=Kenya,,
+108,Q0109,country=Kenya,genre=hip hop,
+109,Q0110,age=13,genre=modern rock,
+110,Q0111,country=Kenya,age=13,
+111,Q0112,country=Kenya,age=13,genre=edm
+115,Q0116,country=Qatar,genre=modern rock,
+116,Q0117,age=28,genre=r&b,
+117,Q0118,country=Qatar,age=28,
+118,Q0119,country=Qatar,age=28,genre=modern rock
+119,Q0120,country=Guam,,
+122,Q0123,country=Guam,genre=uk dance,
+124,Q0125,country=Guam,age=40,
+125,Q0126,country=Guam,age=40,genre=modern rock
+127,Q0128,age=39,,
+129,Q0130,country=Nepal,genre=edm,
+130,Q0131,age=39,genre=r&b,
+131,Q0132,country=Nepal,age=39,
+132,Q0133,country=Nepal,age=39,genre=pop dance
+133,Q0134,country=Saint Martin,,
+134,Q0135,age=36,,
+136,Q0137,country=Saint Martin,genre=dance pop,
+137,Q0138,age=36,genre=tropical house,
+138,Q0139,country=Saint Martin,age=36,
+139,Q0140,country=Saint Martin,age=36,genre=uk dance
+143,Q0144,country=New Zealand,genre=r&b,
+144,Q0145,age=21,genre=r&b,
+145,Q0146,country=New Zealand,age=21,
+146,Q0147,country=New Zealand,age=21,genre=dance pop
+147,Q0148,country=Mauritius,,
+150,Q0151,country=Mauritius,genre=pop,
+151,Q0152,age=65,genre=uk dance,
+152,Q0153,country=Mauritius,age=65,
+153,Q0154,country=Mauritius,age=65,genre=pop
+157,Q0158,country=Jordan,genre=dance pop,
+158,Q0159,age=44,genre=modern rock,
+159,Q0160,country=Jordan,age=44,
+160,Q0161,country=Jordan,age=44,genre=pop
+161,Q0162,country=Bahrain,,
+164,Q0165,country=Bahrain,genre=rock,
+165,Q0166,age=44,genre=tropical house,
+166,Q0167,country=Bahrain,age=44,
+167,Q0168,country=Bahrain,age=44,genre=modern rock
+168,Q0169,country=Denmark,,
+171,Q0172,country=Denmark,genre=r&b,
+173,Q0174,country=Denmark,age=26,
+174,Q0175,country=Denmark,age=26,genre=rock
+176,Q0177,age=53,,
+178,Q0179,country=Heard Island and McDonald Islands,genre=uk dance,
+179,Q0180,age=53,genre=edm,
+180,Q0181,country=Heard Island and McDonald Islands,age=53,
+181,Q0182,country=Heard Island and McDonald Islands,age=53,genre=modern rock
+185,Q0186,country=Turks and Caicos Islands,genre=tropical house,
+186,Q0187,age=59,genre=hip hop,
+187,Q0188,country=Turks and Caicos Islands,age=59,
+188,Q0189,country=Turks and Caicos Islands,age=59,genre=edm
+189,Q0190,country=Cuba,,
+190,Q0191,age=41,,
+192,Q0193,country=Cuba,genre=tropical house,
+193,Q0194,age=41,genre=uk dance,
+194,Q0195,country=Cuba,age=41,
+195,Q0196,country=Cuba,age=41,genre=r&b
+200,Q0201,age=44,genre=hip hop,
+201,Q0202,country=Belgium,age=44,
+202,Q0203,country=Belgium,age=44,genre=pop dance
+206,Q0207,country=Zambia,genre=modern rock,
+208,Q0209,country=Zambia,age=23,
+209,Q0210,country=Zambia,age=23,genre=pop
+210,Q0211,country=United Kingdom,,
+213,Q0214,country=United Kingdom,genre=tropical house,
+215,Q0216,country=United Kingdom,age=57,
+216,Q0217,country=United Kingdom,age=57,genre=hip hop
+218,Q0219,age=25,,
+220,Q0221,country=Mayotte,genre=tropical house,
+221,Q0222,age=25,genre=r&b,
+222,Q0223,country=Mayotte,age=25,
+223,Q0224,country=Mayotte,age=25,genre=edm
+227,Q0228,country=Heard Island and McDonald Islands,genre=edm,
+228,Q0229,age=42,genre=hip hop,
+229,Q0230,country=Heard Island and McDonald Islands,age=42,
+230,Q0231,country=Heard Island and McDonald Islands,age=42,genre=edm
+232,Q0233,age=22,,
+234,Q0235,country=Chile,genre=modern rock,
+235,Q0236,age=22,genre=tropical house,
+236,Q0237,country=Chile,age=22,
+237,Q0238,country=Chile,age=22,genre=hip hop
+238,Q0239,country=Kazakhstan,,
+239,Q0240,age=10,,
+241,Q0242,country=Kazakhstan,genre=dance pop,
+242,Q0243,age=10,genre=pop,
+243,Q0244,country=Kazakhstan,age=10,
+244,Q0245,country=Kazakhstan,age=10,genre=r&b
+246,Q0247,age=20,,
+248,Q0249,country=Australia,genre=dance pop,
+249,Q0250,age=20,genre=pop dance,
+250,Q0251,country=Australia,age=20,
+251,Q0252,country=Australia,age=20,genre=pop dance
+255,Q0256,country=Lebanon,genre=pop dance,
+256,Q0257,age=66,genre=uk dance,
+257,Q0258,country=Lebanon,age=66,
+258,Q0259,country=Lebanon,age=66,genre=dance pop
+262,Q0263,country=Turks and Caicos Islands,genre=rock,
+264,Q0265,country=Turks and Caicos Islands,age=57,
+265,Q0266,country=Turks and Caicos Islands,age=57,genre=modern rock
+266,Q0267,country=Bermuda,,
+269,Q0270,country=Bermuda,genre=tropical house,
+270,Q0271,age=62,genre=dance pop,
+271,Q0272,country=Bermuda,age=62,
+272,Q0273,country=Bermuda,age=62,genre=tropical house
+273,Q0274,country=Kiribati,,
+276,Q0277,country=Kiribati,genre=edm,
+277,Q0278,age=63,genre=tropical house,
+278,Q0279,country=Kiribati,age=63,
+279,Q0280,country=Kiribati,age=63,genre=pop dance
+283,Q0284,country=Qatar,genre=uk dance,
+284,Q0285,age=59,genre=modern rock,
+285,Q0286,country=Qatar,age=59,
+286,Q0287,country=Qatar,age=59,genre=rock
+287,Q0288,country=Argentina,,
+290,Q0291,country=Argentina,genre=tropical house,
+292,Q0293,country=Argentina,age=51,
+293,Q0294,country=Argentina,age=51,genre=pop dance
+295,Q0296,age=43,,
+297,Q0298,country=Mayotte,genre=modern rock,
+298,Q0299,age=43,genre=dance pop,
+299,Q0300,country=Mayotte,age=43,
+300,Q0301,country=Mayotte,age=43,genre=tropical house
+301,Q0302,country=Brunei Darussalam,,
+302,Q0303,age=29,,
+304,Q0305,country=Brunei Darussalam,genre=tropical house,
+305,Q0306,age=29,genre=pop dance,
+306,Q0307,country=Brunei Darussalam,age=29,
+307,Q0308,country=Brunei Darussalam,age=29,genre=uk dance
+311,Q0312,country=Chad,genre=dance pop,
+312,Q0313,age=27,genre=edm,
+313,Q0314,country=Chad,age=27,
+314,Q0315,country=Chad,age=27,genre=tropical house
+316,Q0317,age=45,,
+318,Q0319,country=New Zealand,genre=pop,
+319,Q0320,age=45,genre=edm,
+320,Q0321,country=New Zealand,age=45,
+321,Q0322,country=New Zealand,age=45,genre=dance pop
+322,Q0323,country=Northern Mariana Islands,,
+325,Q0326,country=Northern Mariana Islands,genre=edm,
+326,Q0327,age=61,genre=rock,
+327,Q0328,country=Northern Mariana Islands,age=61,
+328,Q0329,country=Northern Mariana Islands,age=61,genre=tropical house
+330,Q0331,age=54,,
+332,Q0333,country=Qatar,genre=hip hop,
+333,Q0334,age=54,genre=pop dance,
+334,Q0335,country=Qatar,age=54,
+335,Q0336,country=Qatar,age=54,genre=uk dance
+339,Q0340,country=Angola,genre=r&b,
+340,Q0341,age=66,genre=hip hop,
+341,Q0342,country=Angola,age=66,
+342,Q0343,country=Angola,age=66,genre=pop dance
+343,Q0344,country=Wallis and Futuna,,
+346,Q0347,country=Wallis and Futuna,genre=uk dance,
+347,Q0348,age=49,genre=tropical house,
+348,Q0349,country=Wallis and Futuna,age=49,
+349,Q0350,country=Wallis and Futuna,age=49,genre=pop dance
+353,Q0354,country=Angola,genre=hip hop,
+355,Q0356,country=Angola,age=40,
+356,Q0357,country=Angola,age=40,genre=rock
+360,Q0361,country=Chad,genre=uk dance,
+361,Q0362,age=57,genre=pop dance,
+362,Q0363,country=Chad,age=57,
+363,Q0364,country=Chad,age=57,genre=tropical house
+367,Q0368,country=Turks and Caicos Islands,genre=edm,
+368,Q0369,age=65,genre=dance pop,
+369,Q0370,country=Turks and Caicos Islands,age=65,
+370,Q0371,country=Turks and Caicos Islands,age=65,genre=hip hop
+374,Q0375,country=Turkmenistan,genre=edm,
+376,Q0377,country=Turkmenistan,age=23,
+377,Q0378,country=Turkmenistan,age=23,genre=hip hop
+378,Q0379,country=Guinea,,
+379,Q0380,age=18,,
+381,Q0382,country=Guinea,genre=modern rock,
+382,Q0383,age=18,genre=modern rock,
+383,Q0384,country=Guinea,age=18,
+384,Q0385,country=Guinea,age=18,genre=dance pop
+385,Q0386,country=Korea,,
+388,Q0389,country=Korea,genre=dance pop,
+390,Q0391,country=Korea,age=16,
+391,Q0392,country=Korea,age=16,genre=pop dance
+392,Q0393,country=Antarctica (the territory South of 60 deg S),,
+393,Q0394,age=11,,
+395,Q0396,country=Antarctica (the territory South of 60 deg S),genre=rock,
+396,Q0397,age=11,genre=tropical house,
+397,Q0398,country=Antarctica (the territory South of 60 deg S),age=11,
+398,Q0399,country=Antarctica (the territory South of 60 deg S),age=11,genre=pop dance
+399,Q0400,country=Colombia,,
+402,Q0403,country=Colombia,genre=modern rock,
+403,Q0404,age=38,genre=tropical house,
+404,Q0405,country=Colombia,age=38,
+405,Q0406,country=Colombia,age=38,genre=tropical house
+409,Q0410,country=Zambia,genre=rock,
+410,Q0411,age=52,genre=rock,
+411,Q0412,country=Zambia,age=52,
+412,Q0413,country=Zambia,age=52,genre=edm
+413,Q0414,country=Liberia,,
+416,Q0417,country=Liberia,genre=pop,
+418,Q0419,country=Liberia,age=44,
+419,Q0420,country=Liberia,age=44,genre=dance pop
+420,Q0421,country=Ireland,,
+423,Q0424,country=Ireland,genre=uk dance,
+424,Q0425,age=67,genre=modern rock,
+425,Q0426,country=Ireland,age=67,
+426,Q0427,country=Ireland,age=67,genre=edm
+428,Q0429,age=55,,
+430,Q0431,country=Sao Tome and Principe,genre=r&b,
+431,Q0432,age=55,genre=rock,
+432,Q0433,country=Sao Tome and Principe,age=55,
+433,Q0434,country=Sao Tome and Principe,age=55,genre=modern rock
+437,Q0438,country=Mongolia,genre=tropical house,
+438,Q0439,age=49,genre=modern rock,
+439,Q0440,country=Mongolia,age=49,
+440,Q0441,country=Mongolia,age=49,genre=r&b
+441,Q0442,country=Tokelau,,
+444,Q0445,country=Tokelau,genre=tropical house,
+445,Q0446,age=69,genre=edm,
+446,Q0447,country=Tokelau,age=69,
+447,Q0448,country=Tokelau,age=69,genre=dance pop
+449,Q0450,age=48,,
+451,Q0452,country=Turkmenistan,genre=dance pop,
+452,Q0453,age=48,genre=rock,
+453,Q0454,country=Turkmenistan,age=48,
+454,Q0455,country=Turkmenistan,age=48,genre=uk dance
+458,Q0459,country=Australia,genre=r&b,
+460,Q0461,country=Australia,age=26,
+461,Q0462,country=Australia,age=26,genre=uk dance
+465,Q0466,country=Mongolia,genre=r&b,
+466,Q0467,age=63,genre=edm,
+467,Q0468,country=Mongolia,age=63,
+468,Q0469,country=Mongolia,age=63,genre=edm
+469,Q0470,country=Algeria,,
+470,Q0471,age=19,,
+472,Q0473,country=Algeria,genre=tropical house,
+473,Q0474,age=19,genre=rock,
+474,Q0475,country=Algeria,age=19,
+475,Q0476,country=Algeria,age=19,genre=hip hop
+476,Q0477,country=Cook Islands,,
+479,Q0480,country=Cook Islands,genre=rock,
+480,Q0481,age=24,genre=modern rock,
+481,Q0482,country=Cook Islands,age=24,
+482,Q0483,country=Cook Islands,age=24,genre=hip hop
+486,Q0487,country=Monaco,genre=dance pop,
+487,Q0488,age=28,genre=edm,
+488,Q0489,country=Monaco,age=28,
+489,Q0490,country=Monaco,age=28,genre=dance pop
+490,Q0491,country=Guernsey,,
+493,Q0494,country=Guernsey,genre=rock,
+494,Q0495,age=34,genre=uk dance,
+495,Q0496,country=Guernsey,age=34,
+496,Q0497,country=Guernsey,age=34,genre=edm
+500,Q0501,country=New Zealand,genre=tropical house,
+501,Q0502,age=52,genre=tropical house,
+502,Q0503,country=New Zealand,age=52,
+503,Q0504,country=New Zealand,age=52,genre=uk dance
+504,Q0505,country=Bosnia and Herzegovina,,
+507,Q0508,country=Bosnia and Herzegovina,genre=hip hop,
+508,Q0509,age=60,genre=uk dance,
+509,Q0510,country=Bosnia and Herzegovina,age=60,
+510,Q0511,country=Bosnia and Herzegovina,age=60,genre=r&b
+511,Q0512,country=United Arab Emirates,,
+514,Q0515,country=United Arab Emirates,genre=pop,
+515,Q0516,age=26,genre=modern rock,
+516,Q0517,country=United Arab Emirates,age=26,
+517,Q0518,country=United Arab Emirates,age=26,genre=pop dance
+521,Q0522,country=Barbados,genre=tropical house,
+522,Q0523,age=30,genre=modern rock,
+523,Q0524,country=Barbados,age=30,
+524,Q0525,country=Barbados,age=30,genre=tropical house
+529,Q0530,age=13,genre=hip hop,
+530,Q0531,country=Belgium,age=13,
+531,Q0532,country=Belgium,age=13,genre=hip hop
+532,Q0533,country=New Caledonia,,
+535,Q0536,country=New Caledonia,genre=dance pop,
+536,Q0537,age=47,genre=pop,
+537,Q0538,country=New Caledonia,age=47,
+538,Q0539,country=New Caledonia,age=47,genre=edm
+539,Q0540,country=Niger,,
+542,Q0543,country=Niger,genre=rock,
+543,Q0544,age=42,genre=uk dance,
+544,Q0545,country=Niger,age=42,
+545,Q0546,country=Niger,age=42,genre=tropical house
+546,Q0547,country=Gibraltar,,
+549,Q0550,country=Gibraltar,genre=modern rock,
+551,Q0552,country=Gibraltar,age=40,
+552,Q0553,country=Gibraltar,age=40,genre=edm
+556,Q0557,country=Jordan,genre=edm,
+557,Q0558,age=24,genre=edm,
+558,Q0559,country=Jordan,age=24,
+559,Q0560,country=Jordan,age=24,genre=rock
+563,Q0564,country=Lebanon,genre=hip hop,
+564,Q0565,age=50,genre=rock,
+565,Q0566,country=Lebanon,age=50,
+566,Q0567,country=Lebanon,age=50,genre=pop dance
+570,Q0571,country=Gambia,genre=pop dance,
+571,Q0572,age=59,genre=pop,
+573,Q0574,country=Gambia,age=59,genre=pop
+574,Q0575,country=Romania,,
+577,Q0578,country=Romania,genre=tropical house,
+578,Q0579,age=64,genre=edm,
+579,Q0580,country=Romania,age=64,
+580,Q0581,country=Romania,age=64,genre=rock
+581,Q0582,country=Armenia,,
+584,Q0585,country=Armenia,genre=r&b,
+585,Q0586,age=67,genre=hip hop,
+586,Q0587,country=Armenia,age=67,
+587,Q0588,country=Armenia,age=67,genre=r&b
+591,Q0592,country=Sao Tome and Principe,genre=tropical house,
+592,Q0593,age=47,genre=dance pop,
+593,Q0594,country=Sao Tome and Principe,age=47,
+594,Q0595,country=Sao Tome and Principe,age=47,genre=uk dance
+595,Q0596,country=Congo,,
+596,Q0597,age=58,,
+598,Q0599,country=Congo,genre=hip hop,
+599,Q0600,age=58,genre=r&b,
+600,Q0601,country=Congo,age=58,
+601,Q0602,country=Congo,age=58,genre=dance pop
+602,Q0603,country=Poland,,
+605,Q0606,country=Poland,genre=pop,
+606,Q0607,age=21,genre=pop dance,
+607,Q0608,country=Poland,age=21,
+608,Q0609,country=Poland,age=21,genre=edm
+612,Q0613,country=Gambia,genre=edm,
+613,Q0614,age=59,genre=r&b,
+615,Q0616,country=Gambia,age=59,genre=r&b
+616,Q0617,country=United States Minor Outlying Islands,,
+617,Q0618,age=46,,
+619,Q0620,country=United States Minor Outlying Islands,genre=pop dance,
+620,Q0621,age=46,genre=pop dance,
+621,Q0622,country=United States Minor Outlying Islands,age=46,
+622,Q0623,country=United States Minor Outlying Islands,age=46,genre=rock
+623,Q0624,country=Grenada,,
+626,Q0627,country=Grenada,genre=r&b,
+627,Q0628,age=34,genre=rock,
+628,Q0629,country=Grenada,age=34,
+629,Q0630,country=Grenada,age=34,genre=modern rock
+630,Q0631,country=Spain,,
+633,Q0634,country=Spain,genre=rock,
+634,Q0635,age=60,genre=pop dance,
+635,Q0636,country=Spain,age=60,
+636,Q0637,country=Spain,age=60,genre=rock
+637,Q0638,country=Falkland Islands (Malvinas),,
+640,Q0641,country=Falkland Islands (Malvinas),genre=uk dance,
+642,Q0643,country=Falkland Islands (Malvinas),age=32,
+643,Q0644,country=Falkland Islands (Malvinas),age=32,genre=modern rock
+644,Q0645,country=Serbia,,
+647,Q0648,country=Serbia,genre=rock,
+648,Q0649,age=21,genre=modern rock,
+649,Q0650,country=Serbia,age=21,
+650,Q0651,country=Serbia,age=21,genre=modern rock
+651,Q0652,country=French Polynesia,,
+654,Q0655,country=French Polynesia,genre=tropical house,
+655,Q0656,age=28,genre=tropical house,
+656,Q0657,country=French Polynesia,age=28,
+657,Q0658,country=French Polynesia,age=28,genre=hip hop
+661,Q0662,country=Lebanon,genre=modern rock,
+662,Q0663,age=62,genre=tropical house,
+663,Q0664,country=Lebanon,age=62,
+664,Q0665,country=Lebanon,age=62,genre=r&b
+668,Q0669,country=Chile,genre=uk dance,
+670,Q0671,country=Chile,age=16,
+671,Q0672,country=Chile,age=16,genre=hip hop
+672,Q0673,country=Saint Barthelemy,,
+675,Q0676,country=Saint Barthelemy,genre=uk dance,
+677,Q0678,country=Saint Barthelemy,age=44,
+678,Q0679,country=Saint Barthelemy,age=44,genre=dance pop
+679,Q0680,country=Mexico,,
+682,Q0683,country=Mexico,genre=pop,
+684,Q0685,country=Mexico,age=47,
+685,Q0686,country=Mexico,age=47,genre=pop
+687,Q0688,age=70,,
+689,Q0690,country=Monaco,genre=tropical house,
+690,Q0691,age=70,genre=pop,
+691,Q0692,country=Monaco,age=70,
+692,Q0693,country=Monaco,age=70,genre=hip hop
+693,Q0694,country=Madagascar,,
+696,Q0697,country=Madagascar,genre=rock,
+698,Q0699,country=Madagascar,age=32,
+699,Q0700,country=Madagascar,age=32,genre=edm
